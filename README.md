@@ -8,7 +8,7 @@
 
 
 ```markdown
-### 程式碼範例
+## 程式碼範例
 
     import numpy as np
     import pandas as pd
@@ -19,4 +19,4 @@
 
 ### 聯絡方式
 
- [contact support](wolfytien@gmail.com) 我會儘快回覆~
+contact support: wolfytien@gmail.com 我會儘快回覆~
