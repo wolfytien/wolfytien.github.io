@@ -3,16 +3,16 @@
 ## 主要專長
 
 ### Python
-### Cloud Service
+### Cloud Services
 ### Machine Learning
 
 
 ```markdown
-程式碼範例
+### 程式碼範例
 
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
+`import numpy as np`
+`import pandas as pd`
+`import matplotlib.pyplot as plt`
 
 ```
 
