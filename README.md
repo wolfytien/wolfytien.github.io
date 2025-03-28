@@ -3,8 +3,9 @@
 ## 主要專長
 
 ### Python
+### AI solutions
 ### Cloud Services
-### Machine Learning
+### Microsoft Azure Architecture
 
 
 ```markdown
